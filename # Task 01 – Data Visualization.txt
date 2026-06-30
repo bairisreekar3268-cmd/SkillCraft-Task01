@@ -1,0 +1,48 @@
+# Task 01 – Data Visualization (Bar Chart & Histogram)
+
+## 📌 Objective
+
+The objective of this task is to visualize data distributions using **Bar Charts** and **Histograms**. Data visualization is an essential step in Exploratory Data Analysis (EDA), helping to identify patterns, trends, and insights from raw datasets.
+
+## 🛠️ Tools & Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## 📊 Task Overview
+
+In this project, I:
+
+* Loaded and explored the dataset using Pandas.
+* Created **Bar Charts** to visualize categorical data distributions.
+* Built **Histograms** to analyze continuous variables and their frequency distributions.
+* Interpreted the visualizations to understand data trends and patterns.
+
+## 📈 Key Learnings
+
+* Importance of data visualization in Data Science.
+* Understanding categorical and numerical data distributions.
+* Hands-on experience with Exploratory Data Analysis (EDA).
+* Improved Python programming and data visualization skills.
+
+## 📂 Project Structure
+
+```
+Task-01/
+│── Task01_Data_Visualization.ipynb
+│── dataset.csv
+│── output/
+│   ├── bar_chart.png
+│   └── histogram.png
+│── README.md
+```
+
+## 🚀 Outcome
+
+This project demonstrates how simple visualizations can transform raw data into meaningful insights, making it easier to analyze trends and support data-driven decision-making.
+
+---
+
+**Internship:** SkillCraft Technology – Data Science Internship
